@@ -23,11 +23,6 @@ Aqui você encontra códigos, ferramentas e protótipos que refletem aprendizado
 - 🔒 **Segurança** — honeypots, testes de intrusão e análise de vulnerabilidades  
 - 🧭 **OSINT & Red Team** — coleta de informação, simulações e ferramentas ofensivas (para fins de estudo e pesquisa)
 
----
-
-## 🚀 Como navegar pelos projetos
-Cada repositório é independente — clone o que te interessar.  
-Use os **topics** (tags) nos repositórios para filtrar por linguagem ou área (ex.: `topic:python`, `topic:c`, `topic:pentest`).
 
 ---
 
