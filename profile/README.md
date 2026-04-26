@@ -50,10 +50,14 @@ class SecurityResearcher:
 
     def get_skills(self):
         return {
-            "languages" : ["Python", "C", "Bash", "x86 Assembly"],
-            "security"  : ["Pentesting", "OSINT", "Red Team", "Exploit Dev"],
-            "systems"   : ["Linux", "Networking", "Reverse Engineering"],
-            "tools"     : ["Metasploit", "Burp Suite", "Nmap", "Wireshark", "GDB"]
+            "languages"  : ["Python", "C", "Bash", "x86 Assembly"],
+            "security"   : ["Pentesting", "OSINT", "Red Team", "Exploit Dev"],
+            "systems"    : ["Linux", "Networking", "Reverse Engineering"],
+            "offensive"  : ["Metasploit", "Cobalt Strike", "Burp Suite", "SQLMap"],
+            "reversing"  : ["IDA Pro", "Ghidra", "Radare2", "x64dbg", "GDB"],
+            "forensics"  : ["Volatility", "Autopsy", "Wireshark", "CyberChef"],
+            "networking" : ["Nmap", "Masscan", "Responder", "BloodHound"],
+            "cracking"   : ["Hashcat", "John the Ripper", "Hydra"]
         }
 
     def current_focus(self):
@@ -71,6 +75,7 @@ me = SecurityResearcher()
 
 ### `> ls -la ./arsenal`
 
+#### ⌨️ Languages & OS
 <p align="left">
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00FF41" />
@@ -78,13 +83,38 @@ me = SecurityResearcher()
   <img src="https://img.shields.io/badge/Assembly-0D1117?style=for-the-badge&logo=assemblyscript&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/Kali-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=00FF41" />
 </p>
 
+#### ☠️ Offensive Security
 <p align="left">
   <img src="https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Cobalt_Strike-0D1117?style=for-the-badge&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/SQLMap-0D1117?style=for-the-badge&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Hydra-0D1117?style=for-the-badge&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Responder-0D1117?style=for-the-badge&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/BloodHound-0D1117?style=for-the-badge&logoColor=00FF41" />
+</p>
+
+#### 🔬 Reverse Engineering & Forensics
+<p align="left">
+  <img src="https://img.shields.io/badge/IDA_Pro-0D1117?style=for-the-badge&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Ghidra-0D1117?style=for-the-badge&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Radare2-0D1117?style=for-the-badge&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/x64dbg-0D1117?style=for-the-badge&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/GDB-0D1117?style=for-the-badge&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Volatility-0D1117?style=for-the-badge&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/CyberChef-0D1117?style=for-the-badge&logoColor=00FF41" />
+</p>
+
+#### 🌐 Networking & Recon
+<p align="left">
   <img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Masscan-0D1117?style=for-the-badge&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Hashcat-0D1117?style=for-the-badge&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-0D1117?style=for-the-badge&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF41" />
 </p>
