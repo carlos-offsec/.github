@@ -11,7 +11,7 @@
 ![OSINT](https://img.shields.io/badge/OSINT-0066CC?style=for-the-badge)
 ![Security](https://img.shields.io/badge/Security-0F172A?style=for-the-badge)
 
-Bem-vindo à **AkiraSec** — um lugar para meus estudos, experimentos e projetos em desenvolvimento e segurança cibernética.  
+Bem-vindo ao **c4o5.sec** — um lugar para meus estudos, experimentos e projetos em desenvolvimento e segurança cibernética.  
 Aqui você encontra códigos, ferramentas e protótipos que refletem aprendizado contínuo e curiosidade técnica.
 
 ---
