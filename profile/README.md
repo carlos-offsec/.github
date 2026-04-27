@@ -84,6 +84,8 @@ me = SecurityResearcher()
   <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/Kali-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Parrot_OS-0D1117?style=for-the-badge&logo=parrotsecurity&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/BlackArch-0D1117?style=for-the-badge&logo=archlinux&logoColor=00FF41" />
 </p>
 
 #### ☠️ Offensive Security
