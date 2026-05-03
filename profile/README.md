@@ -123,23 +123,6 @@ me = SecurityResearcher()
 
 ---
 
-### `> cat /var/log/activity.log`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=c4o5&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=AAAAAA&ring_color=00FF41" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=c4o5&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=AAAAAA&sideNums=AAAAAA&dates=555555" width="49%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4o5&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=AAAAAA" width="40%" />
-
-</div>
-
----
-
 ### `> cat ./areas_de_foco.txt`
 
 ```
